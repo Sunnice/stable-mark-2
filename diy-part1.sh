@@ -29,8 +29,8 @@ rm -rf package/lean/luci-app-kodexplorer
 
 svn co https://github.com/Lienol/openwrt-packages/trunk/net/smartdns package/net/smartdns
 
-rm -rf feeds/package/net/https-dns-proxy
-svn co https://github.com/Lienol/openwrt-packages/trunk/net/https-dns-proxy feeds/package/net/https-dns-proxy
+rm -rf feeds/packages/net/https-dns-proxy
+svn co https://github.com/Lienol/openwrt-packages/trunk/net/https-dns-proxy feeds/packages/net/https-dns-proxy
 
 svn co https://github.com/Lienol/openwrt-packages/trunk/libs/nss package/libs/nss
 
