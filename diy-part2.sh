@@ -15,6 +15,7 @@
 git clone https://github.com/ElonH/Rclone-OpenWrt.git package/rclone
 git clone https://github.com/fw876/helloworld.git package/helloworld
 git clone https://github.com/project-openwrt/luci-app-koolproxyR.git package/koolproxyR
+git clone https://github.com/pymumu/smartdns.git package/net/smartdns
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns
 git clone -b master https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adguardhome
